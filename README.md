@@ -28,7 +28,8 @@
 - 🌱 一直学习新技能
 ## 📺
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/e3/49/5a/e3495a43eb0aa6fb027679357af564c3.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/cc/93/d6/cc93d6f9ac812a27d1fb1f581c8588a9.gif" width="200" />
   <img src="https://i.pinimg.com/originals/01/d3/79/01d3790f0caa52abb06a2f8403ef1f42.gif" width="200" />
   <img src="https://i.pinimg.com/originals/3c/0c/e3/3c0ce30ae7eed97cccd44fff185d246c.gif" width="200" />
   <img src="https://i.pinimg.com/originals/6b/2a/6b/6b2a6be2720a3aa47053240adfdc8534.gif" width="200" />
