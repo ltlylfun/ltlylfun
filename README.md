@@ -26,3 +26,7 @@
 - 📚 偶尔爱看小说
 - 🎥 经常看动漫
 - 🌱 一直学习新技能
+## 📺 动漫 GIF 墙
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e2/ff/e8/e2ffe8434e55346858201bfce1632f76.gif" width="200" />
+</div>
