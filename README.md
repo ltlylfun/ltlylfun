@@ -10,13 +10,11 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ## 📫 联系方式
 - 邮箱: funjee126@qq.com
 ## 🌟 项目
 以下是我正在进行的一些项目：
-
 ### 项目 1: sayHello
 - 描述: 一个使用 React 和 Node.js 构建的聊天应用（制作中）。
 - 技术: MERN（MongoDB、Express、React 和 Node ） + Socket.io + TailwindCSS + Daisy UI
