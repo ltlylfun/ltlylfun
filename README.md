@@ -16,14 +16,14 @@
 ## 🌟 项目
 以下是我正在进行的一些项目：
 ### 项目 1: sayHello
-- 描述: 一个使用 React 和 Node.js 构建的聊天应用（制作中）。
-- 技术: MERN（MongoDB、Express、React 和 Node ） + Socket.io + TailwindCSS + Daisy UI
+- 描述: 一个使用 React 和 Node.js 构建的聊天应用。
+- 技术:MongoDB,Express,React,Node.js,Socket.io 
 - GitHub: [项目链接](https://github.com/ltlylfun/sayHello)
 
 ## ✨兴趣爱好
-- 📚 偶尔爱看小说
-- 🎥 经常看动漫
-- 🌱 一直学习新技能
+- 📚 偶尔看小说
+- 🎥 常常看动漫
+- 🌱 努力学习新技能
 ## 📺
 <div align="center">
   <img src="https://i.pinimg.com/originals/e3/49/5a/e3495a43eb0aa6fb027679357af564c3.gif" width="200" />
