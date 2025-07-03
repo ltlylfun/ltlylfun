@@ -3,17 +3,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ltlylfun&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlylfun&layout=compact&theme=default&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td width="50%" align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltlylfun&show_icons=true&theme=default&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; white-space: nowrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ltlylfun&show_icons=true&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=ltlylfun&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=300" />
+  </a>
+</div>
